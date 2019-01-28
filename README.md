@@ -1,4 +1,4 @@
-## Picture gallery app written Vue.js and TypeScript.
+## Picture gallery app written Vue.js and TypeScript
 **Main features**
 - Uploading images in BASE64
 - Live search by image title (case sensitive)
