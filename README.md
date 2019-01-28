@@ -1,29 +1,8 @@
-# gallery
+## Picture gallery app written Vue.js and TypeScript.
+**Main features**
+- Uploading images in BASE64
+- Live search by image title (case sensitive)
+- Live editing image title
+- Responsive design
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Go to app!](https://vuejs-gallery.firebaseapp.com/)
