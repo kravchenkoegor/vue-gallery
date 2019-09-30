@@ -5,4 +5,4 @@
 - Live editing image title
 - Responsive design
 
-[Go to app!](https://vuejs-gallery.firebaseapp.com/)
+[Go to app!](https://vuejs-gallery.herokuapp.com/)
